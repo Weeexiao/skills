@@ -1,0 +1,6 @@
+{
+  "http": { "enabled": true, "host": "127.0.0.1", "port": 8790, "path": "/mcp", "mountOnWebServer": false },
+  "tools": { "workspace": true, "session": true, "files": true, "shell": true, "agentTools": true },
+  "agentTools": { "allow": [], "deny": [] },
+  "approval": { "policy": "inherit" }
+}

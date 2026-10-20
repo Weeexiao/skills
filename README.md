@@ -196,6 +196,7 @@ git add -A; git commit -m "fix: ..."; git push
 | `qiushi-ai-script-director` | Python 3 + openpyxl（生成 Excel 分镜表）；抽帧脚本另需 ffmpeg |
 | `ai-short-drama-scene-assets` | Python 3 + Pillow（`compose_grid.py` 拼四宫格） |
 | `gemini-image-gen` | `bsk`（browser-skill）守护进程 + 已登录 Gemini 的浏览器 |
+| `dsh-orchestrator` | DSH 桌面、兼容的 Node.js/npm、dsh-as-mcp；客户端依赖与完整部署见技能内说明 |
 | 其余技能 | 纯文档，无运行时依赖 |
 
 ## 维护约定
