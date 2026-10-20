@@ -67,16 +67,21 @@ python scripts/check_pov_script.py --json "pov剧本/世界杯POV.md"   # 机器
 
 ## 安装
 
+本技能位于合集仓库 [Weeexiao/skills](https://github.com/Weeexiao/skills) 的 `scriptwriting/pov-shortdrama/`。用稀疏检出只拉这一个技能：
+
 ```bash
-# DeepSeek Harness
-git clone git@github.com:Weeexiao/pov-shortdrama.git ~/.agents/skills/pov-shortdrama
-
-# WorkBuddy
-git clone git@github.com:Weeexiao/pov-shortdrama.git ~/.workbuddy/skills/pov-shortdrama
-
-# Codex
-git clone git@github.com:Weeexiao/pov-shortdrama.git ~/.codex/skills/pov-shortdrama
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git /tmp/skills
+cd /tmp/skills && git sparse-checkout set scriptwriting/pov-shortdrama
+cp -r scriptwriting/pov-shortdrama ~/.agents/skills/
 ```
+
+```powershell
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git $env:TEMP\skills
+cd $env:TEMP\skills; git sparse-checkout set scriptwriting/pov-shortdrama
+Copy-Item -Recurse scriptwriting\pov-shortdrama "$env:USERPROFILE\.agents\skills\"
+```
+
+目标目录按运行时替换：DSH 用 `~/.agents/skills/`，WorkBuddy 用 `~/.workbuddy/skills/`，Codex 用 `~/.codex/skills/`。
 
 需要 Python 3。
 

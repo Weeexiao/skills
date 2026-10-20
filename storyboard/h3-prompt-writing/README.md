@@ -62,18 +62,21 @@ h3-prompt-writing/
 
 ## 安装
 
-克隆到用户级技能目录即可，三个运行时都认：
+本技能位于合集仓库 [Weeexiao/skills](https://github.com/Weeexiao/skills) 的 `storyboard/h3-prompt-writing/`。用稀疏检出只拉这一个技能：
 
 ```bash
-# DeepSeek Harness
-git clone git@github.com:Weeexiao/h3-prompt-writing.git ~/.agents/skills/h3-prompt-writing
-
-# WorkBuddy
-git clone git@github.com:Weeexiao/h3-prompt-writing.git ~/.workbuddy/skills/h3-prompt-writing
-
-# Codex
-git clone git@github.com:Weeexiao/h3-prompt-writing.git ~/.codex/skills/h3-prompt-writing
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git /tmp/skills
+cd /tmp/skills && git sparse-checkout set storyboard/h3-prompt-writing
+cp -r storyboard/h3-prompt-writing ~/.agents/skills/
 ```
+
+```powershell
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git $env:TEMP\skills
+cd $env:TEMP\skills; git sparse-checkout set storyboard/h3-prompt-writing
+Copy-Item -Recurse storyboard\h3-prompt-writing "$env:USERPROFILE\.agents\skills\"
+```
+
+目标目录按运行时替换：DSH 用 `~/.agents/skills/`，WorkBuddy 用 `~/.workbuddy/skills/`，Codex 用 `~/.codex/skills/`。
 
 ## 与其他 H3 技能的分工
 

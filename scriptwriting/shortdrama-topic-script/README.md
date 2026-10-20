@@ -52,19 +52,21 @@ shortdrama-topic-script/
 
 ## 安装
 
-克隆到 WorkBuddy 的用户级 skills 目录即可：
+本技能位于合集仓库 [Weeexiao/skills](https://github.com/Weeexiao/skills) 的 `scriptwriting/shortdrama-topic-script/`。用稀疏检出只拉这一个技能：
 
 ```bash
-git clone git@github.com:Weeexiao/shortdrama-topic-script.git \
-  ~/.workbuddy/skills/shortdrama-topic-script
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git /tmp/skills
+cd /tmp/skills && git sparse-checkout set scriptwriting/shortdrama-topic-script
+cp -r scriptwriting/shortdrama-topic-script ~/.workbuddy/skills/
 ```
-
-Windows 路径：
 
 ```powershell
-git clone git@github.com:Weeexiao/shortdrama-topic-script.git `
-  "$env:USERPROFILE\.workbuddy\skills\shortdrama-topic-script"
+git clone --depth 1 --filter=blob:none --sparse https://github.com/Weeexiao/skills.git $env:TEMP\skills
+cd $env:TEMP\skills; git sparse-checkout set scriptwriting/shortdrama-topic-script
+Copy-Item -Recurse scriptwriting\shortdrama-topic-script "$env:USERPROFILE\.workbuddy\skills\"
 ```
+
+目标目录按运行时替换：DSH 用 `~/.agents/skills/`，WorkBuddy 用 `~/.workbuddy/skills/`，Codex 用 `~/.codex/skills/`。
 
 安装后新开一个对话，说“用 shortdrama-topic-script 给赵叔选下一集”即可。
 
