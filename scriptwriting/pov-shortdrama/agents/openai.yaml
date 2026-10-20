@@ -1,0 +1,4 @@
+interface:
+  display_name: "POV 第一人称爽文短剧剧本"
+  short_description: "Give one topic, answer a few questions, get a Toonflow-format POV script"
+  default_prompt: "Use $pov-shortdrama to turn this topic into a POV first-person short-drama script in Toonflow format."

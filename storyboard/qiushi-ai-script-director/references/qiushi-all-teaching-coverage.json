@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-09-09T08:50:48+08:00",
+  "scope": "提炼所有可读取课件、文案、PDF、PPT 与思维图文字；原视频不复制进买家包。",
+  "documents_read": 170,
+  "searchable_records": 3585,
+  "collections": {
+    "每日一镜·2023": 6,
+    "每日一镜·2024": 36,
+    "每日一镜·2025": 97,
+    "长拉片教程": 12,
+    "拉片教学视频": 5,
+    "秋拾脚本合集·课件": 14
+  },
+  "topic_coverage": {
+    "产品广告": 41,
+    "企业空间": 19,
+    "声音设计": 134,
+    "剪辑节奏": 134,
+    "镜头语言": 137,
+    "开场结构": 85,
+    "人物表达": 99,
+    "Vlog生活": 52,
+    "旅拍": 66
+  },
+  "unreadable_or_empty": [
+    {
+      "source_label": "1月29日 (8)好片拆解003：旅拍不止是记录｜用这个结构，把旅行变成值得回味的“故事” 成片/PPT/The_Universal_Story_Blueprint.pdf",
+      "format": ".pdf",
+      "reason": "empty or non-extractable text"
+    },
+    {
+      "source_label": "城市宣传片、旅拍短片/日本旅拍/日本旅拍表格和导图资料/日本旅拍vlog脑图.pdf",
+      "format": ".pdf",
+      "reason": "empty or non-extractable text"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI短剧场景资产生成"
+  short_description: "链式生成空间一致的四视角场景资产图与高分辨率四宫格"
+  default_prompt: "为AI短剧制作一套场景资产：依次生成正视图、反向平视回望图、45度斜俯全景图和90度垂直俯视图，并拼接为高分辨率四宫格。"

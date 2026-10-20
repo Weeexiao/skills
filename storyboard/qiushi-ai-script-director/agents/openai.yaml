@@ -1,0 +1,7 @@
+interface:
+  display_name: "秋拾 AI 脚本编导"
+  short_description: "按需交付故事板、Excel分镜或原片拉片表"
+  default_prompt: "使用 $qiushi-ai-script-director，先选择：故事板预览、Excel 表格、完整制作包或原片拉片，再按该模式完成我的项目。"
+
+policy:
+  allow_implicit_invocation: true

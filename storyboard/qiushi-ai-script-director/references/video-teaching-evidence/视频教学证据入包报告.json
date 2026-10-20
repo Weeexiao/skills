@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-09-09T10:21:44+08:00",
+  "raw_video_records": 176,
+  "deduplicated_video_records": 172,
+  "parallel_records_collapsed": 4,
+  "keyframes": 990,
+  "rule": "源视频不复制；只内置压缩关键帧和待核对转写。"
+}

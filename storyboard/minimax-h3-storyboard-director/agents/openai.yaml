@@ -1,0 +1,7 @@
+interface:
+  display_name: "MiniMax H3 Cinematic Storyboard Director"
+  short_description: "Build cinematic storyboards and untimed H3 reference prompts"
+  default_prompt: "Use $minimax-h3-storyboard-director to design a cinematic storyboard and MiniMax H3 reference prompt without duration labels."
+
+policy:
+  allow_implicit_invocation: true
