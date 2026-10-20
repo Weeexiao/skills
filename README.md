@@ -126,6 +126,67 @@ Get-ChildItem "$env:TEMP\skills" -Directory | Where-Object { $_.Name -ne ".git" 
 
 技能目录名必须与 `SKILL.md` 里的 `name` 字段一致，否则部分运行时无法识别（本仓库已保证一致）。
 
+### 推荐：单克隆 + 目录联接（一次更新全部）
+
+复制安装会产生 10 份互不同步的副本。更省事的做法是**只保留一个克隆**，技能目录用目录联接（junction）指向克隆里的子目录：`git pull` 一次，全部技能同时更新，也不会出现副本漂移。
+
+Windows（PowerShell，管理员权限不需要）：
+
+```powershell
+$repo = "$env:USERPROFILE\.agents\skill-sources\skills"
+$link = "$env:USERPROFILE\.agents\skills"
+
+git clone https://github.com/Weeexiao/skills.git $repo
+
+Get-ChildItem $repo -Directory | Where-Object { $_.Name -ne ".git" } | ForEach-Object {
+  Get-ChildItem $_.FullName -Directory | ForEach-Object {
+    $target = Join-Path $link $_.Name
+    if (Test-Path $target) { Remove-Item -Recurse -Force $target }
+    cmd /c mklink /J "$target" $_.FullName
+  }
+}
+```
+
+macOS / Linux 等价写法：
+
+```bash
+git clone https://github.com/Weeexiao/skills.git ~/.agents/skill-sources/skills
+ln -s ~/.agents/skill-sources/skills/*/* ~/.agents/skills/
+```
+
+**更新全部技能：**
+
+```powershell
+git -C "$env:USERPROFILE\.agents\skill-sources\skills" pull
+```
+
+**改技能并推回仓库**——从任意技能目录进去即可，git 会自动定位到同一个仓库，工作区路径前缀就是该技能所在子目录：
+
+```powershell
+cd "$env:USERPROFILE\.agents\skills\pov-shortdrama"
+git status          # 改动显示为 scriptwriting/pov-shortdrama/...
+git add -A; git commit -m "fix: ..."; git push
+```
+
+#### 两处必须手工处理的地方
+
+目录联接不会随仓库结构自动变化，下面两种情况要手动补一下：
+
+1. **仓库新增技能**：新建目录后，要为它单独建一个联接，否则运行时看不到这个技能。
+
+   ```powershell
+   $repo = "$env:USERPROFILE\.agents\skill-sources\skills"
+   cmd /c mklink /J "$env:USERPROFILE\.agents\skills\<技能名>" "$repo\<分类>\<技能名>"
+   ```
+
+2. **仓库删除或重命名技能**：旧联接会变成**悬空目录**（指向已不存在的路径）。必须删掉，否则加载器会读到一个无效技能目录、报错或跳过整批扫描。
+
+   ```powershell
+   Remove-Item -Recurse -Force "$env:USERPROFILE\.agents\skills\<旧技能名>"
+   ```
+
+> 判断某个目录是不是联接：`Get-ChildItem ~\.agents\skills | Select-Object Name, LinkType, Target`，或直接看资源管理器里目录图标带小箭头。
+
 ## 依赖说明
 
 | 技能 | 依赖 |
