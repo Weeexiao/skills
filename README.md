@@ -1,6 +1,6 @@
 # Skills 合集
 
-AI 短剧制作全流程的 Agent Skills 合集，按生产环节分类存放。
+覆盖 AI 短剧制作及 DSH 工具协作的 Agent Skills 合集，按生产环节与工程用途分类存放。
 
 每个技能是一个自包含目录：`SKILL.md`（技能定义与流程）+ `README.md`（用途、安装、边界）+ 可选的 `references/`、`scripts/`、`agents/`。
 
@@ -61,7 +61,17 @@ skills/
 
 | 技能 | 解决什么 | 典型触发 |
 | --- | --- | --- |
-| [dsh-orchestrator](tooling/dsh-orchestrator/) | 把建模、批处理、编码任务委派给 DeepSeek Harness，由宿主负责分流、方案与验收 | "DSH 协作"、"委派执行"、"迁移部署" |
+| [dsh-orchestrator](tooling/dsh-orchestrator/) | 检查、安装并部署 DSH 桌面插件；小任务直接完成，DSH 专属工具直接调用，大块独立任务才交模型执行，以减少 Codex 用量 | "部署 DSH 协作"、"连接 DSH 桌面"、"新电脑迁移"、"委派执行" |
+
+### DSH 协作与新电脑部署
+
+安装 [dsh-orchestrator](tooling/dsh-orchestrator/README.md) 后，对 Codex 发送：
+
+> 使用 $dsh-orchestrator，检查本机是否已有 DSH 和 dsh-as-mcp；已有就复用，没有则按技能下载安装并部署，完成认证、只读工具调用和桌面记录验证。小任务直接做，大块独立任务才委派模型。
+
+代理按[完整部署流程](tooling/dsh-orchestrator/references/connection.md)执行：检查插件与运行状态 → 下载缺失组件 → 合并配置 → 安装命令行依赖 → 验证接口及桌面记录。默认复用 `dsh-as-mcp`，支持不经过 DSH 模型的直接工具调用；需要自主完成整块工作时才调用模型。
+
+技能安装后由代理执行后续部署；账户登录、系统授权及等待其他桌面任务结束可能需要用户配合。新桌面链路仍需在目标电脑实测，安装技能本身不代表已经连通。
 
 ## 生产链路
 
@@ -88,7 +98,9 @@ skills/
 
 ## 安装
 
-技能目录需要被放到运行时的用户级 skills 路径下：
+将具体技能子目录放到运行时的用户级 skills 路径下，不能把合集根目录直接当成一个技能安装。已有克隆和目录联接时优先复用，避免重复复制或覆盖本地修改。
+
+默认路径如下（Codex 设置了 `CODEX_HOME` 时使用其 `skills/` 子目录）：
 
 | 运行时 | 路径 |
 | --- | --- |
@@ -196,7 +208,7 @@ git add -A; git commit -m "fix: ..."; git push
 | `qiushi-ai-script-director` | Python 3 + openpyxl（生成 Excel 分镜表）；抽帧脚本另需 ffmpeg |
 | `ai-short-drama-scene-assets` | Python 3 + Pillow（`compose_grid.py` 拼四宫格） |
 | `gemini-image-gen` | `bsk`（browser-skill）守护进程 + 已登录 Gemini 的浏览器 |
-| `dsh-orchestrator` | DSH 桌面、兼容的 Node.js/npm、dsh-as-mcp；客户端依赖与完整部署见技能内说明 |
+| [dsh-orchestrator](tooling/dsh-orchestrator/) | DSH 桌面、兼容的 Node.js/npm、`dsh-as-mcp`（部署基线 0.1.5）；在技能 `scripts/` 下显式执行 `npm ci --ignore-scripts` 安装客户端依赖，详见[部署说明](tooling/dsh-orchestrator/references/connection.md) |
 | 其余技能 | 纯文档，无运行时依赖 |
 
 ## 维护约定
