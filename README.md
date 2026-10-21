@@ -21,7 +21,8 @@ skills/
 │   ├── ai-short-drama-scene-assets/
 │   └── gemini-image-gen/
 ├── production/                        # 成片制作
-│   └── audio-driven-mv/
+│   ├── audio-driven-mv/
+│   └── blender-previs/
 └── tooling/                           # 工程与协作
     └── dsh-orchestrator/
 ```
@@ -56,12 +57,13 @@ skills/
 | 技能 | 解决什么 | 典型触发 |
 | --- | --- | --- |
 | [audio-driven-mv](production/audio-driven-mv/) | 已有歌曲驱动的对口型 MV：分段送 MiniMax H3、逐字唱词、角色场景参考、任务恢复、按原音频裁尾 | "对口型 MV"、"音乐数字人"、"按歌曲分段生成" |
+| [blender-previs](production/blender-previs/) | Blender 白模预演：低精度体块验证站位、走位、构图、景别、路径、运镜与时间轴，输出预演 MP4 作 H3 运动参考；不验证表情口型 | "白模"、"预演"、"走位验证"、"运镜会不会穿墙" |
 
 ### 工程与协作 · `tooling/`
 
 | 技能 | 解决什么 | 典型触发 |
 | --- | --- | --- |
-| [dsh-orchestrator](tooling/dsh-orchestrator/) | 检查、安装并部署 DSH 桌面插件；小任务直接完成，DSH 专属工具直接调用，大块独立任务才交模型执行，以减少 Codex 用量 | "部署 DSH 协作"、"连接 DSH 桌面"、"新电脑迁移"、"委派执行" |
+| [dsh-orchestrator](tooling/dsh-orchestrator/) | 检查、安装并部署 DSH 桌面插件；**派单前先验证技能注册、运行时可用与路径可写**；含 30 个 Blender 内置技能的用途速查与路由表；小任务直接完成，大块独立任务才交模型，以减少 Codex 用量 | "部署 DSH 协作"、"连接 DSH 桌面"、"新电脑迁移"、"委派执行"、"该用哪个 Blender 技能" |
 
 ### DSH 协作与新电脑部署
 
@@ -84,6 +86,8 @@ skills/
   ↓
 分镜            minimax-h3-storyboard-director / qiushi-ai-script-director
   ↓
+可选预演        blender-previs（复杂走位/运镜先验证再生成）
+  ↓
 提示词          h3-prompt-writing（结构） + minimax-h3-storyboard-director（镜头）
   ↓
 资产            ai-short-drama-scene-assets（场景） / gemini-image-gen（任意图）
@@ -95,6 +99,13 @@ skills/
 - 只要**这场戏怎么拍**：`minimax-h3-storyboard-director`
 - 已经**有系列、要下一集**：`shortdrama-topic-script`
 - 做 **POV 爽文题材**：`pov-shortdrama`
+- 要**先验证走位运镜再花钱生成**：`blender-previs`
+
+### Blender 技能怎么选
+
+DSH 内置 30 个 Blender 技能（`create-3d-model` 总入口 + 29 个领域模块），不在本仓库。要建模、改场景、材质灯光、动画、渲染、导出时，先看 [dsh-orchestrator 的 Blender 路由表](tooling/dsh-orchestrator/references/blenderSkills.md)：它给出按任务意图的完整对照、推荐链路，以及**派单前如何确认这些技能与 Blender 本体真的可用**。
+
+常见陷阱：技能全部注册成功，但 `blender` 不在 PATH（如装在 `D:\Blender\` 却未加入环境变量），此时 `blender_status` 返回 `spawn blender ENOENT`，任何 Blender 任务都产不出文件。技能注册 ≠ 能运行，两者必须分别验证。
 
 ## 安装
 
@@ -208,6 +219,7 @@ git add -A; git commit -m "fix: ..."; git push
 | `qiushi-ai-script-director` | Python 3 + openpyxl（生成 Excel 分镜表）；抽帧脚本另需 ffmpeg |
 | `ai-short-drama-scene-assets` | Python 3 + Pillow（`compose_grid.py` 拼四宫格） |
 | `gemini-image-gen` | `bsk`（browser-skill）守护进程 + 已登录 Gemini 的浏览器 |
+| `blender-previs` | **Blender 可执行文件**（PATH 中的 `blender` 或配置 `blenderExecutable`）+ FFmpeg |
 | [dsh-orchestrator](tooling/dsh-orchestrator/) | DSH 桌面、兼容的 Node.js/npm、`dsh-as-mcp`（部署基线 0.1.5）；在技能 `scripts/` 下显式执行 `npm ci --ignore-scripts` 安装客户端依赖，详见[部署说明](tooling/dsh-orchestrator/references/connection.md) |
 | 其余技能 | 纯文档，无运行时依赖 |
 
@@ -237,5 +249,7 @@ git add -A; git commit -m "fix: ..."; git push
 | `gemini-image-gen` | `assets/gemini-image-gen/` |
 | `audioDrivenMv` | `production/audio-driven-mv/` |
 | `dsh-orchestrator` | `tooling/dsh-orchestrator/` |
+
+`blender-previs` 由 `audio-driven-mv/references/blenderPrevis.md` 提炼而来，成为独立的通用预演技能；MV 侧只保留音频与引用编号差异。
 
 `h3-video-remake` 为私有技能，**不在本仓库**，继续单独存放在其私有仓库中。

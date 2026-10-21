@@ -37,7 +37,14 @@ ln -s "$HOME/skillsSource/tooling/dsh-orchestrator" "${CODEX_HOME:-$HOME/.codex}
 
 ## 文件
 
-- `SKILL.md`：分流与节约用量规则。
+- `SKILL.md`：分流、节约用量规则与派单前的技能到位检查。
 - `references/connection.md`：检测、下载、部署、验证、故障处理及回滚。
+- `references/blenderSkills.md`：DSH 内置 30 个 Blender 技能的用途速查、"什么情况调用哪个"路由表，以及协作前的到位检查清单。
 - `references/desktopConfig.json`：用于合并的插件配置对象。
 - `scripts/dshControl.ts` 及依赖清单：按需发现和调用接口的命令行入口。
+
+## 派单前先查技能
+
+技能注册、运行时可用、路径可写是三件独立的事。典型陷阱：Blender 技能全部注册成功，但 `blender` 不在 PATH，`blender_status` 返回 `spawn blender ENOENT`，此时任何 Blender 任务都产不出文件。
+
+要 Blender 就查 `blender_status.available` 且版本真实；要命令就跑一次最小调用；确认隔离目录可写。三项全过再派单。详见 [Blender 技能路由](references/blenderSkills.md)。

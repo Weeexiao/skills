@@ -27,6 +27,8 @@ description: 使用 Toonflow 无限画布和 MiniMax H3 制作已有歌曲驱动
 
 用户要求白模、复杂走位或镜头验证时，按 [references/blenderPrevis.md](references/blenderPrevis.md) 执行“简短搭建计划 → 确认人物配色与时间轴 → 参考图 → Blender 简化搭建与关键帧 → 检查 → 导出 MP4 → 导入画布”。已有确认可直接沿用；用户明确不用白模时跳过。
 
+白模的通用搭建规范（几何精度、关键帧取整、PNG 序列 + FFmpeg 编码、后台重建脚本）见 `blender-previs` 技能；本 Skill 的引用文件只保留 MV 特有的音频与引用编号差异。
+
 白模只验证站位、层次、距离、构图、景别、路径和运镜，不验证表情或口型。保留可编辑 .blend 与重建脚本；单段单场景，段间切镜留给剪辑。
 
 ## Toonflow 与 H3
