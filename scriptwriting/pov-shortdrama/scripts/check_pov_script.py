@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """POV 短剧剧本自检器（只读）
 
-检查 Toonflow 格式合规性 + POV 分镜规则。不联网、不写文件、不执行外部命令。
+检查 Toonflow 爽文模板格式和文本中的 POV 风险；不验证真实画面与声音。
+不联网、不写文件、不执行外部命令。历史解说不强套本脚本的卡点与台词阈值。
 
 用法:
     python check_pov_script.py <剧本.md> [--json]
@@ -29,17 +30,17 @@ SHOT_RE = re.compile(r"^△\s+")
 DIALOG_RE = re.compile(r"^([^\s（(]+)（([^）]*)）：(.+)$")
 NARR_RE = re.compile(r"^旁白（([^）]*)）：(.+)$")
 
-BODY_PREFIX = ("手部", "脚部", "前景肩影")
-BODY_RE = re.compile(r"(手部|脚部|前景肩影|我的手|我的脚|我的鞋)")
+BODY_RE = re.compile(r"手部|脚部|手臂入画|脚步入画|我的(?:一只|两只|双|左|右)?(?:手|脚|鞋)")
 FORBIDDEN_CHARS = "→●■"
 BAD_SHOT_PATTERNS = [
     (re.compile(r"我的(脸|正脸|表情|神情|全身|五官)"), "主角正脸/表情出镜"),
+    (re.compile(r"(?:我的|主角的)(?:肩膀|肩部|后脑|躯干|背影|倒影|影子)|前景肩影"), "严格POV中出现主角肩部、背影或自身映像"),
     (re.compile(r"我(回头|扭头|转身)"), "用第三人称写主角动作（回头/转身），应改为「视线急甩」等镜头行为"),
     (re.compile(r"过肩"), "出现 POV 禁用的过肩镜"),
     (re.compile(r"正反打|反打镜头"), "出现 POV 禁用的正反打"),
 ]
 HALF_WIDTH_RE = re.compile(r"[\u4e00-\u9fa5][,;?!]|[,;?!][\u4e00-\u9fa5]")
-STANDBODY_WORDS = {"手": "手部", "脚": "脚部", "鞋": "脚部", "影": "影子",
+STANDBODY_WORDS = {"手部": "手部", "手臂入画": "手部", "脚部": "脚部", "脚步入画": "脚部",
                    "呼吸": "画外呼吸", "喘息": "画外呼吸", "目光": "视线", "视线": "视线"}
 
 
@@ -141,7 +142,7 @@ def check(path: str):
             for pat, why in BAD_SHOT_PATTERNS:
                 if pat.search(txt):
                     hard.append(f"{tag} 第 {ln} 行：{why}")
-            if "背影" in body:
+            if re.match(r"(?:背影抽离(?:镜)?|侧后方(?:拍摄)?主角)", body):
                 kind["C"] += 1
             elif BODY_RE.search(body):
                 kind["B"] += 1
@@ -170,22 +171,13 @@ def check(path: str):
     else:
         ok.append(f"台词 {total_dialog} 句（≤12）")
 
-    if kind["C"] > 2:
-        hard.append(f"背影抽离镜 {kind['C']} 个（上限 2）")
+    if kind["C"]:
+        hard.append(f"主角背影抽离镜 {kind['C']} 个（严格POV默认0；明确要求的混合视角需人工检查）")
 
     shot_total = sum(kind.values())
-    if shot_total:
-        a = kind["A"] / shot_total
-        if not (0.6 <= a <= 0.9):
-            warn.append(f"A 主观镜占比 {a:.0%}（建议 60%-90%）")
-        else:
-            ok.append(f"A 主观镜占比 {a:.0%}")
     ok.append(f"三类镜：A {kind['A']} ｜ B {kind['B']} ｜ C {kind['C']}（共 {shot_total} 镜）")
 
-    if len(standbys) < 2:
-        warn.append(f"「主角替身」只用到 {sorted(standbys) or '无'}（建议 ≥2 种）")
-    else:
-        ok.append(f"主角替身：{'、'.join(sorted(standbys))}")
+    ok.append(f"文本在场感线索（仅关键词提示）：{'、'.join(sorted(standbys)) or '无'}")
 
     stats = {"scenes": len(scenes), "shots": shot_total, "dialogs": total_dialog,
              "beats": beat_total, "kinds": kind}
