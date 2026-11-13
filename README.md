@@ -16,7 +16,7 @@ skills/
 ├── storyboard/                        # 分镜与提示词
 │   ├── minimax-h3-storyboard-director/
 │   ├── h3-prompt-writing/
-│   └── qiushi-ai-script-director/
+│   └── ai-script-director/
 ├── assets/                            # 场景与图像资产
 │   ├── ai-short-drama-scene-assets/
 │   └── gemini-image-gen/
@@ -43,7 +43,7 @@ skills/
 | --- | --- | --- |
 | [minimax-h3-storyboard-director](storyboard/minimax-h3-storyboard-director/) | 剧本 → 中文电影分镜规格书 + MiniMax H3 Ref2VA 六段式提示词；镜头语言、运镜多样性、景深与纵深、台词逐字保留 | "分镜设计"、"电影化镜头"、"运镜优化"、"H3 提示词" |
 | [h3-prompt-writing](storyboard/h3-prompt-writing/) | H3 五种输入模式（T2VA / I2VA / FL2VA / L2VA / Ref2VA）的提示词结构与字段顺序，避免参考素材被模型忽略 | "改写成 H3 提示词"、"这段首帧往后推 8 秒"、"Ref2VA 提示词" |
-| [qiushi-ai-script-director](storyboard/qiushi-ai-script-director/) | 秋拾 AI 脚本编导 V3.5：故事板预览、Excel 分镜表、完整制作包、单场景故事板、原片拉片 | "6 宫格故事板"、"表格分镜"、"完整拍摄方案"、"拉片" |
+| [ai-script-director](storyboard/ai-script-director/) | AI脚本编导 V3.5：故事板预览、Excel 分镜表、完整制作包、单场景故事板、原片拉片 | "6 宫格故事板"、"表格分镜"、"完整拍摄方案"、"拉片" |
 
 ### 场景与图像资产 · `assets/`
 
@@ -84,7 +84,7 @@ skills/
   ↓
 剧本            同上（阶段 B：扩写、时长预算、台词台账）
   ↓
-分镜            minimax-h3-storyboard-director / qiushi-ai-script-director
+分镜            minimax-h3-storyboard-director / ai-script-director
   ↓
 可选预演        blender-previs（复杂走位/运镜先验证再生成）
   ↓
@@ -216,7 +216,7 @@ git add -A; git commit -m "fix: ..."; git push
 | --- | --- |
 | `shortdrama-topic-script` | Python 3（`scripts/` 下两个脚本，纯标准库） |
 | `pov-shortdrama` | Python 3（自检脚本，纯标准库） |
-| `qiushi-ai-script-director` | Python 3 + openpyxl（生成 Excel 分镜表）；抽帧脚本另需 ffmpeg |
+| `ai-script-director` | Python 3 + openpyxl（生成 Excel 分镜表）；抽帧脚本另需 ffmpeg |
 | `ai-short-drama-scene-assets` | Python 3 + Pillow（`compose_grid.py` 拼四宫格） |
 | `gemini-image-gen` | `bsk`（browser-skill）守护进程 + 已登录 Gemini 的浏览器 |
 | `blender-previs` | **Blender 可执行文件**（PATH 中的 `blender` 或配置 `blenderExecutable`）+ FFmpeg |
@@ -244,7 +244,7 @@ git add -A; git commit -m "fix: ..."; git push
 | `pov-shortdrama` | `scriptwriting/pov-shortdrama/` |
 | `minimax-h3-storyboard-director` | `storyboard/minimax-h3-storyboard-director/` |
 | `h3-prompt-writing` | `storyboard/h3-prompt-writing/` |
-| `qiushi-ai-script-director` | `storyboard/qiushi-ai-script-director/` |
+| `ai-script-director` | `storyboard/ai-script-director/` |
 | `ai-short-drama-scene-assets` | `assets/ai-short-drama-scene-assets/` |
 | `gemini-image-gen` | `assets/gemini-image-gen/` |
 | `audioDrivenMv` | `production/audio-driven-mv/` |

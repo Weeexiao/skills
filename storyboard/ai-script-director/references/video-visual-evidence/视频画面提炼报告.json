@@ -1,0 +1,8 @@
+{
+  "generated_at": "2026-09-09T09:09:18+08:00",
+  "selection_rule": "产品|广告|TVC|品牌|特斯拉|耐克|三星|立顿|美禄|海尔|红酒|民宿|餐厅|商业|宣传片|工厂|企业|汽车",
+  "videos_read": 18,
+  "visual_frames": 87,
+  "failures": [],
+  "source_copy_policy": "仅保存压缩关键帧与便携索引，不复制原视频，也不写入源电脑路径。"
+}

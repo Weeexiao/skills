@@ -1,0 +1,8 @@
+{
+  "raw_case_entries": 192,
+  "unique_case_bodies": 94,
+  "raw_evidence_rows": 25027,
+  "retrieval_evidence_rows": 12268,
+  "parallel_source_copies_collapsed": 98,
+  "rule": "按同名源表格合并平行来源副本，优先保留题材层级清楚且有效文字更多的一份；全部替代来源仍写入来源映射。"
+}

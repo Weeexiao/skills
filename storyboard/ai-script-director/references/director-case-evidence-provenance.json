@@ -1,0 +1,1812 @@
+[
+  {
+    "canonical_case_id": "QS-002",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/儿童医院/儿童医院短片分析表格.xls",
+    "source_group_fingerprint": "儿童医院短片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-002",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/儿童医院/儿童医院短片分析表格.xls",
+        "source_file": "儿童医院短片分析表格.xls",
+        "rows": 94
+      },
+      {
+        "case_id": "QS-198",
+        "source_relative": "企业、工厂宣传片/儿童医院/儿童医院短片分析表格.xls",
+        "source_file": "儿童医院短片分析表格.xls",
+        "rows": 94
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-004",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/南方电网 走在光芒之前/《走在光芒之前》拉片分析表格.xls",
+    "source_group_fingerprint": "《走在光芒之前》拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-004",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/南方电网 走在光芒之前/《走在光芒之前》拉片分析表格.xls",
+        "source_file": "《走在光芒之前》拉片分析表格.xls",
+        "rows": 164
+      },
+      {
+        "case_id": "QS-200",
+        "source_relative": "企业、工厂宣传片/南方电网 走在光芒之前/《走在光芒之前》拉片分析表格.xls",
+        "source_file": "《走在光芒之前》拉片分析表格.xls",
+        "rows": 166
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-006",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本1/brums.xls",
+    "source_group_fingerprint": "brums.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-006",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本1/brums.xls",
+        "source_file": "brums.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-202",
+        "source_relative": "企业、工厂宣传片/工厂脚本1/brums.xls",
+        "source_file": "brums.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-008",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本2/cinematic.xls",
+    "source_group_fingerprint": "cinematic.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-008",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本2/cinematic.xls",
+        "source_file": "cinematic.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-204",
+        "source_relative": "企业、工厂宣传片/工厂脚本2/cinematic.xls",
+        "source_file": "cinematic.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-010",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本3/hmm銆倄ls.xls",
+    "source_group_fingerprint": "hmm銆倄ls.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-010",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本3/hmm銆倄ls.xls",
+        "source_file": "hmm銆倄ls.xls",
+        "rows": 130
+      },
+      {
+        "case_id": "QS-206",
+        "source_relative": "企业、工厂宣传片/工厂脚本3/hmm銆倄ls.xls",
+        "source_file": "hmm銆倄ls.xls",
+        "rows": 151
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-012",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本4/precision.xls",
+    "source_group_fingerprint": "precision.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-012",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本4/precision.xls",
+        "source_file": "precision.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-208",
+        "source_relative": "企业、工厂宣传片/工厂脚本4/precision.xls",
+        "source_file": "precision.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-014",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本5/tofilix.xls",
+    "source_group_fingerprint": "tofilix.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-014",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本5/tofilix.xls",
+        "source_file": "tofilix.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-210",
+        "source_relative": "企业、工厂宣传片/工厂脚本5/tofilix.xls",
+        "source_file": "tofilix.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-016",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本6/weg corporate.xls",
+    "source_group_fingerprint": "weg corporate.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-016",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/工厂脚本6/weg corporate.xls",
+        "source_file": "weg corporate.xls",
+        "rows": 170
+      },
+      {
+        "case_id": "QS-212",
+        "source_relative": "企业、工厂宣传片/工厂脚本6/weg corporate.xls",
+        "source_file": "weg corporate.xls",
+        "rows": 186
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-018",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/感冒灵脚本➕原片/感冒灵脚本.xlsx",
+    "source_group_fingerprint": "感冒灵脚本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-018",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/感冒灵脚本➕原片/感冒灵脚本.xlsx",
+        "source_file": "感冒灵脚本.xlsx",
+        "rows": 118
+      },
+      {
+        "case_id": "QS-214",
+        "source_relative": "企业、工厂宣传片/感冒灵脚本➕原片/感冒灵脚本.xlsx",
+        "source_file": "感冒灵脚本.xlsx",
+        "rows": 118
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-020",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/纸短情长脚本＋原片/纸短情长 脚本.xls",
+    "source_group_fingerprint": "纸短情长 脚本.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-020",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/企业、工厂宣传片/纸短情长脚本＋原片/纸短情长 脚本.xls",
+        "source_file": "纸短情长 脚本.xls",
+        "rows": 85
+      },
+      {
+        "case_id": "QS-216",
+        "source_relative": "企业、工厂宣传片/纸短情长脚本＋原片/纸短情长 脚本.xls",
+        "source_file": "纸短情长 脚本.xls",
+        "rows": 85
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-022",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/visitjapan一个人骑行旅拍/日本骑行.xls",
+    "source_group_fingerprint": "日本骑行.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-022",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/visitjapan一个人骑行旅拍/日本骑行.xls",
+        "source_file": "日本骑行.xls",
+        "rows": 112
+      },
+      {
+        "case_id": "QS-218",
+        "source_relative": "城市宣传片、旅拍短片/visitjapan一个人骑行旅拍/日本骑行.xls",
+        "source_file": "日本骑行.xls",
+        "rows": 112
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-024",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/中国瞭望塔/中国瞭望塔拉片脚本完结.xls",
+    "source_group_fingerprint": "中国瞭望塔拉片脚本完结.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-024",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/中国瞭望塔/中国瞭望塔拉片脚本完结.xls",
+        "source_file": "中国瞭望塔拉片脚本完结.xls",
+        "rows": 278
+      },
+      {
+        "case_id": "QS-221",
+        "source_relative": "城市宣传片、旅拍短片/中国瞭望塔/中国瞭望塔拉片脚本完结.xls",
+        "source_file": "中国瞭望塔拉片脚本完结.xls",
+        "rows": 278
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-026",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/北京旅拍/北京，感受历史沉淀拉片脚本.xls",
+    "source_group_fingerprint": "北京，感受历史沉淀拉片脚本.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-026",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/北京旅拍/北京，感受历史沉淀拉片脚本.xls",
+        "source_file": "北京，感受历史沉淀拉片脚本.xls",
+        "rows": 166
+      },
+      {
+        "case_id": "QS-224",
+        "source_relative": "城市宣传片、旅拍短片/北京旅拍/北京，感受历史沉淀拉片脚本.xls",
+        "source_file": "北京，感受历史沉淀拉片脚本.xls",
+        "rows": 166
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-028",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/土耳其瞭望塔/土耳其瞭望塔拉片分析表格.xls",
+    "source_group_fingerprint": "土耳其瞭望塔拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-028",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/土耳其瞭望塔/土耳其瞭望塔拉片分析表格.xls",
+        "source_file": "土耳其瞭望塔拉片分析表格.xls",
+        "rows": 314
+      },
+      {
+        "case_id": "QS-226",
+        "source_relative": "城市宣传片、旅拍短片/土耳其瞭望塔/土耳其瞭望塔拉片分析表格.xls",
+        "source_file": "土耳其瞭望塔拉片分析表格.xls",
+        "rows": 314
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-030",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/太平洋的声音/副本来自太平洋的声音.xls",
+    "source_group_fingerprint": "副本来自太平洋的声音.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-030",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/太平洋的声音/副本来自太平洋的声音.xls",
+        "source_file": "副本来自太平洋的声音.xls",
+        "rows": 149
+      },
+      {
+        "case_id": "QS-228",
+        "source_relative": "城市宣传片、旅拍短片/太平洋的声音/副本来自太平洋的声音.xls",
+        "source_file": "副本来自太平洋的声音.xls",
+        "rows": 149
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-032",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 圣达菲/布兰登李圣达菲拉片 1.xls",
+    "source_group_fingerprint": "布兰登李圣达菲拉片 1.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-032",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 圣达菲/布兰登李圣达菲拉片 1.xls",
+        "source_file": "布兰登李圣达菲拉片 1.xls",
+        "rows": 86
+      },
+      {
+        "case_id": "QS-230",
+        "source_relative": "城市宣传片、旅拍短片/布兰登李 圣达菲/布兰登李圣达菲拉片 1.xls",
+        "source_file": "布兰登李圣达菲拉片 1.xls",
+        "rows": 86
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-034",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 安达卢西亚/安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+    "source_group_fingerprint": "安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-034",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 安达卢西亚/安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "source_file": "安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "rows": 239
+      },
+      {
+        "case_id": "QS-222",
+        "source_relative": "城市宣传片、旅拍短片/中国瞭望塔/安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "source_file": "安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "rows": 239
+      },
+      {
+        "case_id": "QS-232",
+        "source_relative": "城市宣传片、旅拍短片/布兰登李 安达卢西亚/安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "source_file": "安达卢西亚拉片分析表格（务必用WPS打开）.xls",
+        "rows": 239
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-036",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 摩洛哥旅拍/布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+    "source_group_fingerprint": "布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-036",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李 摩洛哥旅拍/布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+        "source_file": "布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+        "rows": 291
+      },
+      {
+        "case_id": "QS-234",
+        "source_relative": "城市宣传片、旅拍短片/布兰登李 摩洛哥旅拍/布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+        "source_file": "布兰登李最新短片：摩洛哥崛起  拉片分析表格.xls",
+        "rows": 291
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-038",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李西安/布拉登李西安脚本（务必在电脑下载学习）.xls",
+    "source_group_fingerprint": "布拉登李西安脚本（务必在电脑下载学习）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-038",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李西安/布拉登李西安脚本（务必在电脑下载学习）.xls",
+        "source_file": "布拉登李西安脚本（务必在电脑下载学习）.xls",
+        "rows": 284
+      },
+      {
+        "case_id": "QS-236",
+        "source_relative": "城市宣传片、旅拍短片/布兰登李西安/布拉登李西安脚本（务必在电脑下载学习）.xls",
+        "source_file": "布拉登李西安脚本（务必在电脑下载学习）.xls",
+        "rows": 284
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-040",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李香港/布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+    "source_group_fingerprint": "布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-040",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/布兰登李香港/布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+        "source_file": "布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+        "rows": 310
+      },
+      {
+        "case_id": "QS-238",
+        "source_relative": "城市宣传片、旅拍短片/布兰登李香港/布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+        "source_file": "布兰登李香港旅拍表格（务必在电脑用WPS打开）.xls",
+        "rows": 310
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-042",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/成都大运会宣传片/大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+    "source_group_fingerprint": "大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-042",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/成都大运会宣传片/大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+        "source_file": "大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-240",
+        "source_relative": "城市宣传片、旅拍短片/成都大运会宣传片/大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+        "source_file": "大运会宣传片-传承（匹配剪辑经典案例短片）.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-044",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/房车旅拍拉片脚本＋原片/在路上.xls",
+    "source_group_fingerprint": "在路上.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-044",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/房车旅拍拉片脚本＋原片/在路上.xls",
+        "source_file": "在路上.xls",
+        "rows": 102
+      },
+      {
+        "case_id": "QS-242",
+        "source_relative": "城市宣传片、旅拍短片/房车旅拍拉片脚本＋原片/在路上.xls",
+        "source_file": "在路上.xls",
+        "rows": 102
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-046",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/斯洛文尼亚旅拍脚本/斯洛文尼亚城市风光宣传.xls",
+    "source_group_fingerprint": "斯洛文尼亚城市风光宣传.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-046",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/斯洛文尼亚旅拍脚本/斯洛文尼亚城市风光宣传.xls",
+        "source_file": "斯洛文尼亚城市风光宣传.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-244",
+        "source_relative": "城市宣传片、旅拍短片/斯洛文尼亚旅拍脚本/斯洛文尼亚城市风光宣传.xls",
+        "source_file": "斯洛文尼亚城市风光宣传.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-048",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/旅拍短片《About You - The 1975》/About You - The 1975拉片表格.xls",
+    "source_group_fingerprint": "About You - The 1975拉片表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-048",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/旅拍短片《About You - The 1975》/About You - The 1975拉片表格.xls",
+        "source_file": "About You - The 1975拉片表格.xls",
+        "rows": 127
+      },
+      {
+        "case_id": "QS-246",
+        "source_relative": "城市宣传片、旅拍短片/旅拍短片《About You - The 1975》/About You - The 1975拉片表格.xls",
+        "source_file": "About You - The 1975拉片表格.xls",
+        "rows": 127
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-050",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/日本旅拍/日本旅拍表格和导图资料/日本旅拍拉片分析表（PDF）.xlsx",
+    "source_group_fingerprint": "日本旅拍拉片分析表（PDF）.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-050",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/日本旅拍/日本旅拍表格和导图资料/日本旅拍拉片分析表（PDF）.xlsx",
+        "source_file": "日本旅拍拉片分析表（PDF）.xlsx",
+        "rows": 240
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-052",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/用怎样的方式去探索世界 脚本＋原片/副本用怎样的方式去探索世界.xls",
+    "source_group_fingerprint": "副本用怎样的方式去探索世界.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-052",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/用怎样的方式去探索世界 脚本＋原片/副本用怎样的方式去探索世界.xls",
+        "source_file": "副本用怎样的方式去探索世界.xls",
+        "rows": 102
+      },
+      {
+        "case_id": "QS-248",
+        "source_relative": "城市宣传片、旅拍短片/用怎样的方式去探索世界 脚本＋原片/副本用怎样的方式去探索世界.xls",
+        "source_file": "副本用怎样的方式去探索世界.xls",
+        "rows": 102
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-054",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/苏州看得见的新/苏州宣传片.xls",
+    "source_group_fingerprint": "苏州宣传片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-054",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/苏州看得见的新/苏州宣传片.xls",
+        "source_file": "苏州宣传片.xls",
+        "rows": 135
+      },
+      {
+        "case_id": "QS-250",
+        "source_relative": "城市宣传片、旅拍短片/苏州看得见的新/拉片表格/苏州宣传片.xls",
+        "source_file": "苏州宣传片.xls",
+        "rows": 135
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-056",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/苹果广告 香港旅拍短片/香港旅拍短片.xls",
+    "source_group_fingerprint": "香港旅拍短片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-056",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/苹果广告 香港旅拍短片/香港旅拍短片.xls",
+        "source_file": "香港旅拍短片.xls",
+        "rows": 60
+      },
+      {
+        "case_id": "QS-252",
+        "source_relative": "城市宣传片、旅拍短片/苹果广告 香港旅拍短片/香港旅拍短片.xls",
+        "source_file": "香港旅拍短片.xls",
+        "rows": 60
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-058",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/香港旅拍Secrets of Hong Kong/Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+    "source_group_fingerprint": "Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-058",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/城市宣传片、旅拍短片/香港旅拍Secrets of Hong Kong/Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+        "source_file": "Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+        "rows": 113
+      },
+      {
+        "case_id": "QS-254",
+        "source_relative": "城市宣传片、旅拍短片/香港旅拍Secrets of Hong Kong/Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+        "source_file": "Secrets of Hong Kong CINEMATIC Short Film 拉片分析表格.xls",
+        "rows": 113
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-060",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/婚礼类/户外森林婚礼/婚礼短片拉片分析表格.xls",
+    "source_group_fingerprint": "婚礼短片拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-060",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/婚礼类/户外森林婚礼/婚礼短片拉片分析表格.xls",
+        "source_file": "婚礼短片拉片分析表格.xls",
+        "rows": 68
+      },
+      {
+        "case_id": "QS-256",
+        "source_relative": "婚礼类/户外森林婚礼/婚礼短片拉片分析表格.xls",
+        "source_file": "婚礼短片拉片分析表格.xls",
+        "rows": 68
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-062",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/婚礼类/汉服婚礼/汉婚脚本拉片脚本完结.xlsx",
+    "source_group_fingerprint": "汉婚脚本拉片脚本完结.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-062",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/婚礼类/汉服婚礼/汉婚脚本拉片脚本完结.xlsx",
+        "source_file": "汉婚脚本拉片脚本完结.xlsx",
+        "rows": 83
+      },
+      {
+        "case_id": "QS-258",
+        "source_relative": "婚礼类/汉服婚礼/汉婚脚本拉片脚本完结.xlsx",
+        "source_file": "汉婚脚本拉片脚本完结.xlsx",
+        "rows": 84
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-064",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/不负青春 毕业剧情类/副本《不负青春》(1).xls",
+    "source_group_fingerprint": "副本《不负青春》(1).xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-064",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/不负青春 毕业剧情类/副本《不负青春》(1).xls",
+        "source_file": "副本《不负青春》(1).xls",
+        "rows": 164
+      },
+      {
+        "case_id": "QS-260",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/不负青春 毕业剧情类/副本《不负青春》(1).xls",
+        "source_file": "副本《不负青春》(1).xls",
+        "rows": 164
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-066",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/初中毕业季/七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+    "source_group_fingerprint": "七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-066",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/初中毕业季/七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+        "source_file": "七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+        "rows": 114
+      },
+      {
+        "case_id": "QS-262",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/初中毕业季/七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+        "source_file": "七中毕业季短片《我们一起纪念剩下的盛夏》拉片分析表格.xls",
+        "rows": 114
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-068",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/初中毕业季2/成实外初中毕业季拉片分析表格.xls",
+    "source_group_fingerprint": "成实外初中毕业季拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-068",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/初中毕业季2/成实外初中毕业季拉片分析表格.xls",
+        "source_file": "成实外初中毕业季拉片分析表格.xls",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-264",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/初中毕业季2/成实外初中毕业季拉片分析表格.xls",
+        "source_file": "成实外初中毕业季拉片分析表格.xls",
+        "rows": 106
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-070",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学周年庆/大学宣传片《敢为》拉片分析表格.xlsx",
+    "source_group_fingerprint": "大学宣传片《敢为》拉片分析表格.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-070",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学周年庆/大学宣传片《敢为》拉片分析表格.xlsx",
+        "source_file": "大学宣传片《敢为》拉片分析表格.xlsx",
+        "rows": 151
+      },
+      {
+        "case_id": "QS-266",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/大学周年庆/大学宣传片《敢为》拉片分析表格.xlsx",
+        "source_file": "大学宣传片《敢为》拉片分析表格.xlsx",
+        "rows": 151
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-072",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学宣传片/大学招生宣传片《入门》拉片分析表格.xls",
+    "source_group_fingerprint": "大学招生宣传片《入门》拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-072",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学宣传片/大学招生宣传片《入门》拉片分析表格.xls",
+        "source_file": "大学招生宣传片《入门》拉片分析表格.xls",
+        "rows": 125
+      },
+      {
+        "case_id": "QS-268",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/大学宣传片/大学招生宣传片《入门》拉片分析表格.xls",
+        "source_file": "大学招生宣传片《入门》拉片分析表格.xls",
+        "rows": 125
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-074",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学毕业短片/毕业季《在场》拉片分析表格.xlsx",
+    "source_group_fingerprint": "毕业季《在场》拉片分析表格.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-074",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/大学毕业短片/毕业季《在场》拉片分析表格.xlsx",
+        "source_file": "毕业季《在场》拉片分析表格.xlsx",
+        "rows": 119
+      },
+      {
+        "case_id": "QS-270",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/大学毕业短片/毕业季《在场》拉片分析表格.xlsx",
+        "source_file": "毕业季《在场》拉片分析表格.xlsx",
+        "rows": 119
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-076",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/幼儿园 宣传片2/启文十周年宣传片.xls",
+    "source_group_fingerprint": "启文十周年宣传片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-076",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/幼儿园 宣传片2/启文十周年宣传片.xls",
+        "source_file": "启文十周年宣传片.xls",
+        "rows": 136
+      },
+      {
+        "case_id": "QS-272",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/幼儿园 宣传片2/启文十周年宣传片.xls",
+        "source_file": "启文十周年宣传片.xls",
+        "rows": 136
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-078",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本1/教师节1.xls",
+    "source_group_fingerprint": "教师节1.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-078",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本1/教师节1.xls",
+        "source_file": "教师节1.xls",
+        "rows": 68
+      },
+      {
+        "case_id": "QS-194",
+        "source_relative": "PDF翻译/教师节/教师节1.xls",
+        "source_file": "教师节1.xls",
+        "rows": 68
+      },
+      {
+        "case_id": "QS-274",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/教师节脚本1/教师节1.xls",
+        "source_file": "教师节1.xls",
+        "rows": 68
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-080",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本2/教师节2.xls",
+    "source_group_fingerprint": "教师节2.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-080",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本2/教师节2.xls",
+        "source_file": "教师节2.xls",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-195",
+        "source_relative": "PDF翻译/教师节/教师节2.xls",
+        "source_file": "教师节2.xls",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-276",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/教师节脚本2/教师节2.xls",
+        "source_file": "教师节2.xls",
+        "rows": 106
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-082",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本3/教师节3.xls",
+    "source_group_fingerprint": "教师节3.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-082",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/教师节脚本3/教师节3.xls",
+        "source_file": "教师节3.xls",
+        "rows": 55
+      },
+      {
+        "case_id": "QS-196",
+        "source_relative": "PDF翻译/教师节/教师节3.xls",
+        "source_file": "教师节3.xls",
+        "rows": 55
+      },
+      {
+        "case_id": "QS-278",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/教师节脚本3/教师节3.xls",
+        "source_file": "教师节3.xls",
+        "rows": 55
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-084",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/通用版中、小学宣传片手绘分镜脚本/通用版中、小学宣传片手绘分镜脚本.xls",
+    "source_group_fingerprint": "通用版中、小学宣传片手绘分镜脚本.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-084",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/学校毕业季、宣传片、歌颂教师类/通用版中、小学宣传片手绘分镜脚本/通用版中、小学宣传片手绘分镜脚本.xls",
+        "source_file": "通用版中、小学宣传片手绘分镜脚本.xls",
+        "rows": 258
+      },
+      {
+        "case_id": "QS-280",
+        "source_relative": "学校毕业季、宣传片、歌颂教师类/通用版中、小学宣传片手绘分镜脚本/通用版中、小学宣传片手绘分镜脚本.xls",
+        "source_file": "通用版中、小学宣传片手绘分镜脚本.xls",
+        "rows": 258
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-086",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+    "source_group_fingerprint": "XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-086",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+        "source_file": "XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+        "rows": 83
+      },
+      {
+        "case_id": "QS-282",
+        "source_relative": "政企街道、社区公益、消防公安类短片/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）/XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+        "source_file": "XX社区领航普惠托育，构筑幼有所育的幸福城市典范（托育幼儿类）.xls",
+        "rows": 83
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-088",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/乡村振兴脚本＋原片/乡村振兴题材类型.xls",
+    "source_group_fingerprint": "乡村振兴题材类型.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-088",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/乡村振兴脚本＋原片/乡村振兴题材类型.xls",
+        "source_file": "乡村振兴题材类型.xls",
+        "rows": 91
+      },
+      {
+        "case_id": "QS-284",
+        "source_relative": "政企街道、社区公益、消防公安类短片/乡村振兴脚本＋原片/乡村振兴题材类型.xls",
+        "source_file": "乡村振兴题材类型.xls",
+        "rows": 91
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-091",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/《人生的选择题》拉片脚本.xlsx",
+    "source_group_fingerprint": "《人生的选择题》拉片脚本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-091",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/《人生的选择题》拉片脚本.xlsx",
+        "source_file": "《人生的选择题》拉片脚本.xlsx",
+        "rows": 33
+      },
+      {
+        "case_id": "QS-287",
+        "source_relative": "政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/《人生的选择题》拉片脚本.xlsx",
+        "source_file": "《人生的选择题》拉片脚本.xlsx",
+        "rows": 33
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-092",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/人生的选择题脚本.xlsx",
+    "source_group_fingerprint": "人生的选择题脚本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-092",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/人生的选择题脚本.xlsx",
+        "source_file": "人生的选择题脚本.xlsx",
+        "rows": 33
+      },
+      {
+        "case_id": "QS-288",
+        "source_relative": "政企街道、社区公益、消防公安类短片/人生选择题 脚本＋原片/人生的选择题脚本.xlsx",
+        "source_file": "人生的选择题脚本.xlsx",
+        "rows": 33
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-094",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/公益短片 纸飞机/纸飞机 脚本.xlsx",
+    "source_group_fingerprint": "纸飞机 脚本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-094",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/公益短片 纸飞机/纸飞机 脚本.xlsx",
+        "source_file": "纸飞机 脚本.xlsx",
+        "rows": 63
+      },
+      {
+        "case_id": "QS-290",
+        "source_relative": "政企街道、社区公益、消防公安类短片/公益短片 纸飞机/纸飞机 脚本.xlsx",
+        "source_file": "纸飞机 脚本.xlsx",
+        "rows": 63
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-096",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+    "source_group_fingerprint": "守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-096",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+        "source_file": "守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+        "rows": 83
+      },
+      {
+        "case_id": "QS-292",
+        "source_relative": "政企街道、社区公益、消防公安类短片/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）/守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+        "source_file": "守护夕阳红，为老年人打造幸福生活港湾（关爱老人类）.xls",
+        "rows": 83
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-098",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/宣扬网格员脚本＋原片/宣扬网格员类型.xls",
+    "source_group_fingerprint": "宣扬网格员类型.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-098",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/宣扬网格员脚本＋原片/宣扬网格员类型.xls",
+        "source_file": "宣扬网格员类型.xls",
+        "rows": 116
+      },
+      {
+        "case_id": "QS-294",
+        "source_relative": "政企街道、社区公益、消防公安类短片/宣扬网格员脚本＋原片/宣扬网格员类型.xls",
+        "source_file": "宣扬网格员类型.xls",
+        "rows": 116
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-100",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/慈善超市：关爱社区弱势群体夹/慈善超市.xlsx",
+    "source_group_fingerprint": "慈善超市.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-100",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/慈善超市：关爱社区弱势群体夹/慈善超市.xlsx",
+        "source_file": "慈善超市.xlsx",
+        "rows": 10
+      },
+      {
+        "case_id": "QS-296",
+        "source_relative": "政企街道、社区公益、消防公安类短片/慈善超市：关爱社区弱势群体夹/慈善超市.xlsx",
+        "source_file": "慈善超市.xlsx",
+        "rows": 10
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-102",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/热血警探 片段节选/热血警探拉片分析表格（务必用WPS打开）.xls",
+    "source_group_fingerprint": "热血警探拉片分析表格（务必用WPS打开）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-102",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/热血警探 片段节选/热血警探拉片分析表格（务必用WPS打开）.xls",
+        "source_file": "热血警探拉片分析表格（务必用WPS打开）.xls",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-298",
+        "source_relative": "政企街道、社区公益、消防公安类短片/热血警探 片段节选/热血警探拉片分析表格（务必用WPS打开）.xls",
+        "source_file": "热血警探拉片分析表格（务必用WPS打开）.xls",
+        "rows": 106
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-104",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/社区优秀工作者脚本＋原片/社区优秀工作者个人探索学习类型.xls",
+    "source_group_fingerprint": "社区优秀工作者个人探索学习类型.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-104",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/社区优秀工作者脚本＋原片/社区优秀工作者个人探索学习类型.xls",
+        "source_file": "社区优秀工作者个人探索学习类型.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-300",
+        "source_relative": "政企街道、社区公益、消防公安类短片/社区优秀工作者脚本＋原片/社区优秀工作者个人探索学习类型.xls",
+        "source_file": "社区优秀工作者个人探索学习类型.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-106",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+    "source_group_fingerprint": "稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-106",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+        "source_file": "稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+        "rows": 96
+      },
+      {
+        "case_id": "QS-302",
+        "source_relative": "政企街道、社区公益、消防公安类短片/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）/稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+        "source_file": "稻蒜飘香，乡村振兴！XX社区打造新时代农业样板（乡村振兴类）.xls",
+        "rows": 96
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-108",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+    "source_group_fingerprint": "绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-108",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+        "source_file": "绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+        "rows": 96
+      },
+      {
+        "case_id": "QS-304",
+        "source_relative": "政企街道、社区公益、消防公安类短片/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）/绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+        "source_file": "绿色xx梦 启航新征程——xx街道的奋进与美好（展示区域美好人文和环境类别）.xls",
+        "rows": 96
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-110",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/触手可及脚本＋原片/触手可及.xls",
+    "source_group_fingerprint": "触手可及.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-110",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/政企街道、社区公益、消防公安类短片/触手可及脚本＋原片/触手可及.xls",
+        "source_file": "触手可及.xls",
+        "rows": 104
+      },
+      {
+        "case_id": "QS-306",
+        "source_relative": "政企街道、社区公益、消防公安类短片/触手可及脚本＋原片/触手可及.xls",
+        "source_file": "触手可及.xls",
+        "rows": 104
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-114",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/TVC温情故事类： 《爱乒才会赢》拉片分析表格/TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+    "source_group_fingerprint": "TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-112",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/TVC广告 美禄咖啡/TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "source_file": "TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "rows": 250
+      },
+      {
+        "case_id": "QS-114",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/TVC温情故事类： 《爱乒才会赢》拉片分析表格/TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "source_file": "TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "rows": 250
+      },
+      {
+        "case_id": "QS-308",
+        "source_relative": "故事、剧情片/TVC广告 美禄咖啡/TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "source_file": "TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "rows": 250
+      },
+      {
+        "case_id": "QS-310",
+        "source_relative": "故事、剧情片/TVC温情故事类： 《爱乒才会赢》拉片分析表格/TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "source_file": "TVC温情故事类： 《爱乒才会赢》拉片分析表格.xls",
+        "rows": 250
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-116",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/世界杯短片/青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+    "source_group_fingerprint": "青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-116",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/世界杯短片/青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+        "source_file": "青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+        "rows": 111
+      },
+      {
+        "case_id": "QS-312",
+        "source_relative": "故事、剧情片/世界杯短片/青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+        "source_file": "青春不过几届世界杯拉片分析表格（务必用电脑WPS打开）.xls",
+        "rows": 111
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-118",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 I like your pants/I like your pants.xls",
+    "source_group_fingerprint": "I like your pants.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-118",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 I like your pants/I like your pants.xls",
+        "source_file": "I like your pants.xls",
+        "rows": 96
+      },
+      {
+        "case_id": "QS-314",
+        "source_relative": "故事、剧情片/丹尼短片 I like your pants/I like your pants.xls",
+        "source_file": "I like your pants.xls",
+        "rows": 96
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-120",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 I think Im sick/I tthink I'm sick.xls",
+    "source_group_fingerprint": "I tthink I'm sick.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-120",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 I think Im sick/I tthink I'm sick.xls",
+        "source_file": "I tthink I'm sick.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-316",
+        "source_relative": "故事、剧情片/丹尼短片 I think Im sick/I tthink I'm sick.xls",
+        "source_file": "I tthink I'm sick.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-122",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 a Golf Short Film/a Golf Short Film.xls",
+    "source_group_fingerprint": "a Golf Short Film.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-122",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 a Golf Short Film/a Golf Short Film.xls",
+        "source_file": "a Golf Short Film.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-318",
+        "source_relative": "故事、剧情片/丹尼短片 a Golf Short Film/a Golf Short Film.xls",
+        "source_file": "a Golf Short Film.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-124",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 a cinematic cycling film/A cinematic cycling film.xls",
+    "source_group_fingerprint": "A cinematic cycling film.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-124",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 a cinematic cycling film/A cinematic cycling film.xls",
+        "source_file": "A cinematic cycling film.xls",
+        "rows": 108
+      },
+      {
+        "case_id": "QS-320",
+        "source_relative": "故事、剧情片/丹尼短片 a cinematic cycling film/A cinematic cycling film.xls",
+        "source_file": "A cinematic cycling film.xls",
+        "rows": 122
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-126",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 footboll short film/footboll short film.xls",
+    "source_group_fingerprint": "footboll short film.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-126",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 footboll short film/footboll short film.xls",
+        "source_file": "footboll short film.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-322",
+        "source_relative": "故事、剧情片/丹尼短片 footboll short film/footboll short film.xls",
+        "source_file": "footboll short film.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-128",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 joker vibes mv/joker vibes mv.xls",
+    "source_group_fingerprint": "joker vibes mv.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-128",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/丹尼短片 joker vibes mv/joker vibes mv.xls",
+        "source_file": "joker vibes mv.xls",
+        "rows": 97
+      },
+      {
+        "case_id": "QS-324",
+        "source_relative": "故事、剧情片/丹尼短片 joker vibes mv/joker vibes mv.xls",
+        "source_file": "joker vibes mv.xls",
+        "rows": 97
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-130",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/出行 温情短片/支付宝暖心TVC 想见就相见.xls",
+    "source_group_fingerprint": "支付宝暖心TVC 想见就相见.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-130",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/出行 温情短片/支付宝暖心TVC 想见就相见.xls",
+        "source_file": "支付宝暖心TVC 想见就相见.xls",
+        "rows": 145
+      },
+      {
+        "case_id": "QS-326",
+        "source_relative": "故事、剧情片/出行 温情短片/支付宝暖心TVC 想见就相见.xls",
+        "source_file": "支付宝暖心TVC 想见就相见.xls",
+        "rows": 145
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-132",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/剧情片《最后一位顾客》/副本最后一位顾客.xls",
+    "source_group_fingerprint": "副本最后一位顾客.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-132",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/剧情片《最后一位顾客》/副本最后一位顾客.xls",
+        "source_file": "副本最后一位顾客.xls",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-328",
+        "source_relative": "故事、剧情片/剧情片《最后一位顾客》/副本最后一位顾客.xls",
+        "source_file": "副本最后一位顾客.xls",
+        "rows": 106
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-134",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/寄生虫/副本寄生虫脚本.xls",
+    "source_group_fingerprint": "副本寄生虫脚本.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-134",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/寄生虫/副本寄生虫脚本.xls",
+        "source_file": "副本寄生虫脚本.xls",
+        "rows": 1001
+      },
+      {
+        "case_id": "QS-330",
+        "source_relative": "故事、剧情片/寄生虫资料包/副本寄生虫脚本.xls",
+        "source_file": "副本寄生虫脚本.xls",
+        "rows": 1001
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-136",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/悬疑短片《猫和老鼠》拉片脚本/猫和老鼠 悬疑短片.xls",
+    "source_group_fingerprint": "猫和老鼠 悬疑短片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-136",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/悬疑短片《猫和老鼠》拉片脚本/猫和老鼠 悬疑短片.xls",
+        "source_file": "猫和老鼠 悬疑短片.xls",
+        "rows": 54
+      },
+      {
+        "case_id": "QS-332",
+        "source_relative": "故事、剧情片/悬疑短片《猫和老鼠》拉片脚本/猫和老鼠 悬疑短片.xls",
+        "source_file": "猫和老鼠 悬疑短片.xls",
+        "rows": 54
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-138",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/海尔广告/海尔拉片脚本.xlsx",
+    "source_group_fingerprint": "海尔拉片脚本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-138",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/海尔广告/海尔拉片脚本.xlsx",
+        "source_file": "海尔拉片脚本.xlsx",
+        "rows": 106
+      },
+      {
+        "case_id": "QS-334",
+        "source_relative": "故事、剧情片/海尔广告/海尔拉片脚本.xlsx",
+        "source_file": "海尔拉片脚本.xlsx",
+        "rows": 106
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-140",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/爱如初见 剧情类/爱如初见拉片脚本2.xlsx",
+    "source_group_fingerprint": "爱如初见拉片脚本2.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-140",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/爱如初见 剧情类/爱如初见拉片脚本2.xlsx",
+        "source_file": "爱如初见拉片脚本2.xlsx",
+        "rows": 115
+      },
+      {
+        "case_id": "QS-336",
+        "source_relative": "故事、剧情片/爱如初见 剧情类/爱如初见拉片脚本2.xlsx",
+        "source_file": "爱如初见拉片脚本2.xlsx",
+        "rows": 115
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-142",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/苹果广告 小蒜头/小蒜头 终版.xls",
+    "source_group_fingerprint": "小蒜头 终版.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-142",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/苹果广告 小蒜头/小蒜头 终版.xls",
+        "source_file": "小蒜头 终版.xls",
+        "rows": 277
+      },
+      {
+        "case_id": "QS-338",
+        "source_relative": "故事、剧情片/苹果广告 小蒜头/小蒜头 终版.xls",
+        "source_file": "小蒜头 终版.xls",
+        "rows": 277
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-145",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/蓝河兼一 分镜训练/副本宁静之海的兔子.xls",
+    "source_group_fingerprint": "副本宁静之海的兔子.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-145",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/蓝河兼一 分镜训练/副本宁静之海的兔子.xls",
+        "source_file": "副本宁静之海的兔子.xls",
+        "rows": 165
+      },
+      {
+        "case_id": "QS-341",
+        "source_relative": "故事、剧情片/蓝河兼一 分镜训练/副本宁静之海的兔子.xls",
+        "source_file": "副本宁静之海的兔子.xls",
+        "rows": 165
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-146",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/蓝河兼一 分镜训练/副本小说少女.xls",
+    "source_group_fingerprint": "副本小说少女.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-146",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/蓝河兼一 分镜训练/副本小说少女.xls",
+        "source_file": "副本小说少女.xls",
+        "rows": 166
+      },
+      {
+        "case_id": "QS-342",
+        "source_relative": "故事、剧情片/蓝河兼一 分镜训练/副本小说少女.xls",
+        "source_file": "副本小说少女.xls",
+        "rows": 166
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-148",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/重庆火锅故事/重庆火锅.xls",
+    "source_group_fingerprint": "重庆火锅.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-148",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/故事、剧情片/重庆火锅故事/重庆火锅.xls",
+        "source_file": "重庆火锅.xls",
+        "rows": 90
+      },
+      {
+        "case_id": "QS-344",
+        "source_relative": "故事、剧情片/重庆火锅故事/重庆火锅.xls",
+        "source_file": "重庆火锅.xls",
+        "rows": 91
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-150",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/日常vlog、生活记录/生活记录与感悟Vlog/脚本vlog.xls",
+    "source_group_fingerprint": "脚本vlog.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-150",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/日常vlog、生活记录/生活记录与感悟Vlog/脚本vlog.xls",
+        "source_file": "脚本vlog.xls",
+        "rows": 144
+      },
+      {
+        "case_id": "QS-346",
+        "source_relative": "日常vlog、生活记录/生活记录与感悟Vlog/脚本vlog.xls",
+        "source_file": "脚本vlog.xls",
+        "rows": 144
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-152",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/日常vlog、生活记录/穿普拉达的女王 片段节选/穿普拉达的女王.xls",
+    "source_group_fingerprint": "穿普拉达的女王.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-152",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/日常vlog、生活记录/穿普拉达的女王 片段节选/穿普拉达的女王.xls",
+        "source_file": "穿普拉达的女王.xls",
+        "rows": 68
+      },
+      {
+        "case_id": "QS-348",
+        "source_relative": "日常vlog、生活记录/穿普拉达的女王 片段节选/拉片表格/穿普拉达的女王.xls",
+        "source_file": "穿普拉达的女王.xls",
+        "rows": 68
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-154",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/包饺子/副本包饺子.xlsx",
+    "source_group_fingerprint": "副本包饺子.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-154",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/包饺子/副本包饺子.xlsx",
+        "source_file": "副本包饺子.xlsx",
+        "rows": 43
+      },
+      {
+        "case_id": "QS-350",
+        "source_relative": "美食类短片/包饺子/副本包饺子.xlsx",
+        "source_file": "副本包饺子.xlsx",
+        "rows": 43
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-156",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/咖啡店探店、宣传 拉片分析/咖啡店脚本.xls",
+    "source_group_fingerprint": "咖啡店脚本.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-156",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/咖啡店探店、宣传 拉片分析/咖啡店脚本.xls",
+        "source_file": "咖啡店脚本.xls",
+        "rows": 95
+      },
+      {
+        "case_id": "QS-352",
+        "source_relative": "美食类短片/咖啡店探店、宣传 拉片分析/咖啡店脚本.xls",
+        "source_file": "咖啡店脚本.xls",
+        "rows": 95
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-158",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/居家美食1/居家美食1.xlsx",
+    "source_group_fingerprint": "居家美食1.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-158",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/居家美食1/居家美食1.xlsx",
+        "source_file": "居家美食1.xlsx",
+        "rows": 20
+      },
+      {
+        "case_id": "QS-354",
+        "source_relative": "美食类短片/居家美食1/居家美食1.xlsx",
+        "source_file": "居家美食1.xlsx",
+        "rows": 127
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-160",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/居家美食2/居家美食通用模板_复制后再使用_副本.xlsx",
+    "source_group_fingerprint": "居家美食通用模板_复制后再使用_副本.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-160",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/居家美食2/居家美食通用模板_复制后再使用_副本.xlsx",
+        "source_file": "居家美食通用模板_复制后再使用_副本.xlsx",
+        "rows": 28
+      },
+      {
+        "case_id": "QS-356",
+        "source_relative": "美食类短片/居家美食2/居家美食通用模板_复制后再使用_副本.xlsx",
+        "source_file": "居家美食通用模板_复制后再使用_副本.xlsx",
+        "rows": 112
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-162",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/甜品香蕉/香蕉.xlsx",
+    "source_group_fingerprint": "香蕉.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-162",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/甜品香蕉/香蕉.xlsx",
+        "source_file": "香蕉.xlsx",
+        "rows": 45
+      },
+      {
+        "case_id": "QS-358",
+        "source_relative": "美食类短片/甜品香蕉/香蕉.xlsx",
+        "source_file": "香蕉.xlsx",
+        "rows": 45
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-164",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/肉夹馍/肉夹馍.xls",
+    "source_group_fingerprint": "肉夹馍.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-164",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/美食类短片/肉夹馍/肉夹馍.xls",
+        "source_file": "肉夹馍.xls",
+        "rows": 71
+      },
+      {
+        "case_id": "QS-360",
+        "source_relative": "美食类短片/肉夹馍/肉夹馍.xls",
+        "source_file": "肉夹馍.xls",
+        "rows": 71
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-166",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/Benn TK 过去的两年/Benn TK拉片.xlsx",
+    "source_group_fingerprint": "Benn TK拉片.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-166",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/Benn TK 过去的两年/Benn TK拉片.xlsx",
+        "source_file": "Benn TK拉片.xlsx",
+        "rows": 483
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-168",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/全村最快的女孩/红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+    "source_group_fingerprint": "红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-168",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/全村最快的女孩/红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+        "source_file": "红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+        "rows": 149
+      },
+      {
+        "case_id": "QS-362",
+        "source_relative": "运动、成长、励志类短片/全村最快的女孩/红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+        "source_file": "红牛全村最快的女孩（务必用电脑WPS打开）.xls",
+        "rows": 149
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-170",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/快递小哥 脚本/快递小哥：努力奋斗的人生  拉片.xls",
+    "source_group_fingerprint": "快递小哥：努力奋斗的人生  拉片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-170",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/快递小哥 脚本/快递小哥：努力奋斗的人生  拉片.xls",
+        "source_file": "快递小哥：努力奋斗的人生  拉片.xls",
+        "rows": 81
+      },
+      {
+        "case_id": "QS-364",
+        "source_relative": "运动、成长、励志类短片/快递小哥 脚本/快递小哥：努力奋斗的人生  拉片.xls",
+        "source_file": "快递小哥：努力奋斗的人生  拉片.xls",
+        "rows": 81
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-172",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/爸妈说go/爸妈说GO的.xls",
+    "source_group_fingerprint": "爸妈说GO的.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-172",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/爸妈说go/爸妈说GO的.xls",
+        "source_file": "爸妈说GO的.xls",
+        "rows": 74
+      },
+      {
+        "case_id": "QS-366",
+        "source_relative": "运动、成长、励志类短片/爸妈说go/爸妈说GO的.xls",
+        "source_file": "爸妈说GO的.xls",
+        "rows": 74
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-174",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/破风前行脚本＋短片原片/《破风前行》拉片分析表格.xls",
+    "source_group_fingerprint": "《破风前行》拉片分析表格.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-174",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/破风前行脚本＋短片原片/《破风前行》拉片分析表格.xls",
+        "source_file": "《破风前行》拉片分析表格.xls",
+        "rows": 55
+      },
+      {
+        "case_id": "QS-368",
+        "source_relative": "运动、成长、励志类短片/破风前行脚本＋短片原片/《破风前行》拉片分析表格.xls",
+        "source_file": "《破风前行》拉片分析表格.xls",
+        "rows": 55
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-176",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/红牛热血骑行/红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+    "source_group_fingerprint": "红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-176",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/运动、成长、励志类短片/红牛热血骑行/红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+        "source_file": "红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+        "rows": 146
+      },
+      {
+        "case_id": "QS-370",
+        "source_relative": "运动、成长、励志类短片/红牛热血骑行/红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+        "source_file": "红牛To be alive分析表格（务必电脑下载后打开学习）.xls",
+        "rows": 146
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-178",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/卡点炫酷风露营短片/卡点炫酷风露营短片.xls",
+    "source_group_fingerprint": "卡点炫酷风露营短片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-178",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/卡点炫酷风露营短片/卡点炫酷风露营短片.xls",
+        "source_file": "卡点炫酷风露营短片.xls",
+        "rows": 74
+      },
+      {
+        "case_id": "QS-372",
+        "source_relative": "露营、小清新 情绪短片/卡点炫酷风露营短片/卡点炫酷风露营短片.xls",
+        "source_file": "卡点炫酷风露营短片.xls",
+        "rows": 74
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-180",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/好友出行露营短片/好友出行露营短片.xlsx",
+    "source_group_fingerprint": "好友出行露营短片.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-180",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/好友出行露营短片/好友出行露营短片.xlsx",
+        "source_file": "好友出行露营短片.xlsx",
+        "rows": 111
+      },
+      {
+        "case_id": "QS-374",
+        "source_relative": "露营、小清新 情绪短片/好友出行露营短片/好友出行露营短片.xlsx",
+        "source_file": "好友出行露营短片.xlsx",
+        "rows": 111
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-182",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日居家、踏青小清新短片/春日居家、踏青小清新短片.xlsx",
+    "source_group_fingerprint": "春日居家、踏青小清新短片.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-182",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日居家、踏青小清新短片/春日居家、踏青小清新短片.xlsx",
+        "source_file": "春日居家、踏青小清新短片.xlsx",
+        "rows": 63
+      },
+      {
+        "case_id": "QS-376",
+        "source_relative": "露营、小清新 情绪短片/春日居家、踏青小清新短片/春日居家、踏青小清新短片.xlsx",
+        "source_file": "春日居家、踏青小清新短片.xlsx",
+        "rows": 63
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-184",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日悠闲周末居家短片/春日悠闲周末居家短片.xlsx",
+    "source_group_fingerprint": "春日悠闲周末居家短片.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-184",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日悠闲周末居家短片/春日悠闲周末居家短片.xlsx",
+        "source_file": "春日悠闲周末居家短片.xlsx",
+        "rows": 71
+      },
+      {
+        "case_id": "QS-378",
+        "source_relative": "露营、小清新 情绪短片/春日悠闲周末居家短片/春日悠闲周末居家短片.xlsx",
+        "source_file": "春日悠闲周末居家短片.xlsx",
+        "rows": 71
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-186",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日情绪短片/春日情绪短片.xlsx",
+    "source_group_fingerprint": "春日情绪短片.xlsx",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-186",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日情绪短片/春日情绪短片.xlsx",
+        "source_file": "春日情绪短片.xlsx",
+        "rows": 113
+      },
+      {
+        "case_id": "QS-380",
+        "source_relative": "露营、小清新 情绪短片/春日情绪短片/春日情绪短片.xlsx",
+        "source_file": "春日情绪短片.xlsx",
+        "rows": 113
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-188",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日说走就走的旅行小短片/春日说走就走的旅行小短片.xls",
+    "source_group_fingerprint": "春日说走就走的旅行小短片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-188",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/春日说走就走的旅行小短片/春日说走就走的旅行小短片.xls",
+        "source_file": "春日说走就走的旅行小短片.xls",
+        "rows": 84
+      },
+      {
+        "case_id": "QS-382",
+        "source_relative": "露营、小清新 情绪短片/春日说走就走的旅行小短片/春日说走就走的旅行小短片.xls",
+        "source_file": "春日说走就走的旅行小短片.xls",
+        "rows": 84
+      }
+    ]
+  },
+  {
+    "canonical_case_id": "QS-190",
+    "canonical_source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/漫步小森林治愈系短片/漫步小森林治愈系短片.xls",
+    "source_group_fingerprint": "漫步小森林治愈系短片.xls",
+    "equivalent_source_copies": [
+      {
+        "case_id": "QS-190",
+        "source_relative": "100个拉片脚本（适合投喂AI版本）/露营、小清新 情绪短片/漫步小森林治愈系短片/漫步小森林治愈系短片.xls",
+        "source_file": "漫步小森林治愈系短片.xls",
+        "rows": 57
+      },
+      {
+        "case_id": "QS-384",
+        "source_relative": "露营、小清新 情绪短片/漫步小森林治愈系短片/漫步小森林治愈系短片.xls",
+        "source_file": "漫步小森林治愈系短片.xls",
+        "rows": 57
+      }
+    ]
+  }
+]
